@@ -5,7 +5,5 @@
 # below each fixture, per the syntax in the comments below
 #
 one: {}
-# column: value
-#
-two: {}
-# column: value
+  cat_id: 1
+  hobby_id: 1
